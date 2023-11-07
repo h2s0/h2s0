@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <div>Studying ...📝</div>
 
-<img src="https://img.shields.io/badge/TypeScript-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
 
