@@ -25,7 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2s0&langs_count=8)](https://github.com/h2s0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2s0&layout=compact)](https://github.com/h2s0/github-readme-stats)
