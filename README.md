@@ -15,18 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hi! This is Heesocapsule%20render&fontSize=90)
+
 <div>Studying ...📝</div>
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 
-	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
- https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-
-https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 
 
 
