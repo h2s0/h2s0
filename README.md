@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <div>Studying ...📝</div>
 
+<img src="https://img.shields.io/badge/TypeScript-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 
 
 
