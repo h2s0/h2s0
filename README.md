@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 <div>Studying ...📝</div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
-
-### 꾸준히 노력하는 <br> FrontEnd 개발자입니다.
-
 ## 🛠️ Tech-Stacks
 
 ### Language
