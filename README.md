@@ -17,17 +17,14 @@
             <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         </div>
-
     <p><strong>Backend</strong></p>
         <div>
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        </div>
-        
+        </div> 
     <p><strong>Database</strong></p>
         <div>
             <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=white">
         </div>
-        
     <p><strong>Communication</strong></p>
         <div>
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
