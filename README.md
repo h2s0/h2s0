@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=heeso&fontSize=50)
 
-### 안녕하세요! 김희소입니다
+### Hello !
 
 <!--
 **h2s0/h2s0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
