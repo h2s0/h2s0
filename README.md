@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=heeso&fontSize=50)
 
-## I am a junior front-end developer
+### I am a junior front-end developer
 
-## 🏅 Education 🏅
+### 🏅 Education 🏅
 <img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
 
 ### Technologies
