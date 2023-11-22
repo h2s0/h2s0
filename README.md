@@ -3,30 +3,21 @@
 ### Hello !
 ---
 
-### I am a junior front-end developer
+## I am a junior front-end developer
 
-#### ⚙ I've used ...
+## 🏅 Education 🏅
+<img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>Frontend</strong></p>
-        <div>
+### Technologies
+<div style="display:flex;">
             <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
             <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
             <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
             <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        </div>
-    <p><strong>Backend</strong></p>
-        <div>
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        </div> 
-    <p><strong>Database</strong></p>
-        <div>
             <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=white">
-        </div>
-    <p><strong>Communication</strong></p>
-        <div>
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
         </div>
 </div>
