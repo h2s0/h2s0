@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=heeso&fontSize=50)
 
-### Hello !
----
-
 ## I am a junior front-end developer
 
 ## 🏅 Education 🏅
