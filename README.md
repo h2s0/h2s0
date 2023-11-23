@@ -4,7 +4,7 @@
 ---
 
 ### 📝 Education 🏆
-<img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
+<img src="https://img.shields.io/badge/Techit_FE_School-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
 
 ### 👩🏻‍💻 Technologies 💻
 <div style="display:flex;">
