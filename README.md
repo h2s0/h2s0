@@ -19,7 +19,7 @@
 
 ### ⏰ Currently Studying ... 🔍
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2s0&layout=compact)](https://github.com/h2s0/github-readme-stats)
 [![Heeso's GitHub stats](https://github-readme-stats.vercel.app/api?username=h2s0)](https://github.com/h2s0/github-readme-stats)
