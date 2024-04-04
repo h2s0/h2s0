@@ -21,6 +21,9 @@
 ### ⏰ Currently Studying ... 🔍
 
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=pocketbase&logoColor=white">
+<img src="https://img.shields.io/badge/chartdotjs-FF63845?style=for-the-badge&logo=pocketbase&logoColor=black">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2s0&layout=compact)](https://github.com/h2s0/github-readme-stats)
 [![Heeso's GitHub stats](https://github-readme-stats.vercel.app/api?username=h2s0)](https://github.com/h2s0/github-readme-stats)
