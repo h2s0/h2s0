@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/zustand-7F2B7B?style=for-the-badge&logo=zustand&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=black">
 </div>
 
@@ -24,7 +24,7 @@
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
-<img src="https://img.shields.io/badge/hive-FF7A00?style=for-the-badge&logo=hive&logoColor=black">
+<img src="https://img.shields.io/badge/hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/chakra ui-319795?style=for-the-badge&logo=chakra ui&logoColor=white">
 <img src="https://img.shields.io/badge/chart.js-FF63845?style=for-the-badge&logo=chart.js&logoColor=white">
 
