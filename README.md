@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=black">
 <img src="https://img.shields.io/badge/chart.js-FF63845?style=for-the-badge&logo=chart.js&logoColor=white">
+<img src="https://img.shields.io/badge/vite-FF63845?style=for-the-badge&logo=chart.js&logoColor=white">
 </div>
 
 ### ⏰ Currently Studying ... 🔍
