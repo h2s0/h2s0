@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=black">
+<img src="https://img.shields.io/badge/chart.js-FF63845?style=for-the-badge&logo=chart.js&logoColor=white">
 </div>
 
 ### ⏰ Currently Studying ... 🔍
@@ -27,7 +28,6 @@
 <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white">
 <!--   4FC08D -->
 <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
-<img src="https://img.shields.io/badge/chart.js-FF63845?style=for-the-badge&logo=chart.js&logoColor=white">
 </div>
 
 <br/>
