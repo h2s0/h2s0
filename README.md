@@ -43,15 +43,6 @@
 
 </div>
 
-
-### ⏰ Currently Studying ... 🔍
-
-<div style="display:flex;">
-
-<img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white">
-<!--   4FC08D -->
-</div>
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2s0&layout=compact)](https://github.com/h2s0/github-readme-stats)
